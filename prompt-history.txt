@@ -1,0 +1,6 @@
+We'll be using pygame 2.6.1 and Python 3.13.3. Use this graphics library (which emulates an old vector CRT) to create a Battlezone-style game. Allow for "mouse and keyboard" input (WSAD keys + mouse). Create unit tests. Run all unit tests before outputting code to me. Create a menu screen that explains the basic controls to the user.
+
+
+This is a good start. The window is not capturing any mouse input, however.
+
+
